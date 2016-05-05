@@ -1,1 +1,1 @@
-# MemoDynamic
+# Programación dinámica y Memorization
